@@ -12,3 +12,5 @@ TASK:-
 TASK NO: 3 REALESTATE MARKET TRENDS
 
 DASH BOARD:
+
+![Image](https://github.com/user-attachments/assets/3f892b8c-3eb5-4d7f-af0f-403becac51a1)
